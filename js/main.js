@@ -48,7 +48,7 @@ $(window).scroll(function() {
   
 $(document).ready(function() {
   var participants;
-  var paticipantJson=data/participants.json";
+  var paticipantJson="data/participants.json";
     
     $("#back2Top").click(function(event) {
         event.preventDefault();
