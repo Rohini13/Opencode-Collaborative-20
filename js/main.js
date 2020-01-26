@@ -107,7 +107,7 @@ $(document).ready(function() {
                 "</div>" +
                 "</div>";
 
-            $("#mentors").append(participantDiv);
+            $("#participants").append(participantDiv);
         });
     });
 
